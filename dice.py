@@ -9,7 +9,7 @@ from io import BytesIO
 root = Tk()
 root.geometry("700x250")
 root.config(bg='white')
-root.title("Roll the Dice")
+root.title("Roll the Dices")
 root.resizable(0, 0)
 
 
